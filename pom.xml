@@ -57,7 +57,6 @@
                             <goal>enforce</goal>
                         </goals>
                         <configuration>
-                                  <webXml>src/main/webapp/WEB-INF/web.xml</webXml>
                             <rules>
                                 <requireMavenVersion>
                                     <version>[3.5.4,)</version>
