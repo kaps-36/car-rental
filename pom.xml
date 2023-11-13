@@ -67,7 +67,7 @@
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-war-plugin</artifactId>
-            <version>3.4.2</version>
+            <version>3.4</version>
             <configuration>
                 <webXml>src/main/webapp/WEB-INF/web.xml</webXml>
                 <source>${jdk.version}</source>
